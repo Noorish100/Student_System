@@ -17,8 +17,8 @@
         <li>SQL Server</li>
         <li>Java 8 or later</li>
     </ul>
-    <h1> SWAGGER URL <h1>
-    <p> http://localhost:8818/swagger-ui/index.html#/ <p>
+    <h2> SWAGGER URL <h2>
+    <p>http://localhost:8818/swagger-ui/index.html#/<p>
         <br>
     <h2>API Endpoints</h2>
     <h3>Create a Student</h3>
