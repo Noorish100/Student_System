@@ -7,7 +7,7 @@
 
 </head>
 <body>
-    <h1>Student Management System - README</h1>
+    <h1>Student Management System</h1>
     <h2>Introduction</h2>
     <p>This Spring Boot project provides a RESTful API for managing student records, including creation and updates with validation and automatic calculations.</p>
     <h2>Technologies Used</h2>
@@ -17,6 +17,9 @@
         <li>SQL Server</li>
         <li>Java 8 or later</li>
     </ul>
+    <h1> SWAGGER URL <h1>
+    <p> http://localhost:8818/swagger-ui/index.html#/ <p>
+        <br>
     <h2>API Endpoints</h2>
     <h3>Create a Student</h3>
     <p><strong>Endpoint:</strong> <code>POST /students/create</code></p>
